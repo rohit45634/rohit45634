@@ -10,10 +10,10 @@
 ## 🚀 About Me
 
 - 💻 MERN Stack Developer
-- 🌱 Currently learning Next.js and System Design
+- 🌱 Currently learning Next.js 
 - 🔥 Interested in Full Stack Development
 - ⚡ Building Full Stack Projects
-- 📫 Email: yourmail@gmail.com
+- 📫 Email: rohitmaueya2674463@gmail.com
 
 ---
 
@@ -45,23 +45,6 @@
 
 ---
 
-## 📌 Projects
-
-### ⚡ Virtual Assistant App
-
-- React.js
-- Node.js
-- MongoDB
-- JWT Authentication
-
-### ⚡ Electricity Bill Usage Tracker
-
-- Node.js
-- MongoDB
-- Chart.js
-
----
-
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
@@ -73,13 +56,10 @@
 ## 🌐 Connect With Me
 
 LinkedIn:
-https://linkedin.com/in/YOUR_LINK
-
-Portfolio:
-https://YOUR_PORTFOLIO_LINK
+[](https://www.linkedin.com/in/rohit-maurya-768a73262/)
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/rohit45634
 
 ---
 

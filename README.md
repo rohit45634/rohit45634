@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">MERN Stack Developer | Full Stack Developer</h3>
+<h3 align="center">MERN Stack Developer </h3>
 
 <p align="center">
   Passionate MERN Stack Developer focused on building scalable and responsive web applications.
@@ -56,8 +56,7 @@
 ## 🌐 Connect With Me
 
 LinkedIn:
-[](https://www.linkedin.com/in/rohit-maurya-768a73262/)
-
+https://www.linkedin.com/in/rohit-maurya-768a73262/
 GitHub:
 https://github.com/rohit45634
 

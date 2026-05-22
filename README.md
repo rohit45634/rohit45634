@@ -44,12 +44,17 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 
 ---
-
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit45634&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=rohit45634&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit45634&layout=compact&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rohit45634&color=blue)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohit45634&theme=tokyo-night)
 
 ---
 

@@ -10,7 +10,6 @@
 ## 🚀 About Me
 
 - 💻 MERN Stack Developer
-- 🌱 Currently learning Next.js 
 - 🔥 Interested in Full Stack Development
 - ⚡ Building Full Stack Projects
 - 📫 Email: rohitmaueya2674463@gmail.com

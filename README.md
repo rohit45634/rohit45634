@@ -10,6 +10,7 @@
 ## 🚀 About Me
 
 - 💻 MERN Stack Developer
+- 🌱 Currently learning TypeScript
 - 🔥 Interested in Full Stack Development
 - ⚡ Building Full Stack Projects
 - 📫 Email: rohitmaueya2674463@gmail.com

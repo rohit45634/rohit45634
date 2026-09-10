@@ -25,11 +25,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-
 ### Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 
 ### Database
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql)

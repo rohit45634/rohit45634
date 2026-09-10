@@ -32,7 +32,9 @@
 ![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
 ### Database
-
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
 ### Tools

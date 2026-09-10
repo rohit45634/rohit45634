@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer </h3>
 
 <p align="center">
-  Passionate MERN Stack Developer focused on building scalable and responsive web applications.
+  Passionate Full Stack Developer focused on building scalable and responsive web applications.
 </p>
 
 ---

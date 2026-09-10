@@ -47,8 +47,7 @@
 ---
 ## 📊 GitHub Stats
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohit45634&theme=tokyo-night)
-
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 ---
 
 ## 🌐 Connect With Me

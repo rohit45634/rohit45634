@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">MERN Stack Developer </h3>
+<h3 align="center">Full Stack Developer </h3>
 
 <p align="center">
   Passionate MERN Stack Developer focused on building scalable and responsive web applications.
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 💻 MERN Stack Developer
+- 💻 Full Stack Developer
 - 🌱 Currently learning TypeScript
 - 🔥 Interested in Full Stack Development
 - ⚡ Building Full Stack Projects

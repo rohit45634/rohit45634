@@ -47,16 +47,16 @@
 ---
 ## 📊 GitHub Stats
 
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 ---
 
 ## 🌐 Connect With Me
 
 LinkedIn:
 https://www.linkedin.com/in/rohit-maurya-768a73262/
+
 GitHub:
 https://github.com/rohit45634
 
 ---
 
-⭐ Open to MERN Stack Opportunities
+⭐ Open to Full Stack Opportunities
